@@ -1,0 +1,12 @@
+# Python & Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Dataset & Bobot Model (Agar tidak memenuhi penyimpanan GitHub)
+data/
+*.pth
+*.pt
+outputs/
