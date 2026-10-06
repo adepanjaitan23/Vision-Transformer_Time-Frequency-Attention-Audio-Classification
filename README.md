@@ -1,4 +1,4 @@
-# Vision-Transformer Time Frequency Attention - Audio Classification Project
+# Vision Transformer Time Frequency Attention - Audio Classification Project
 
 Repositori ini berisi kode implementasi dan pelatihan model *Deep Learning* menggunakan PyTorch. Proyek ini dirancang agar mudah dijalankan ulang, baik secara lokal maupun melalui Google Colab.
 
